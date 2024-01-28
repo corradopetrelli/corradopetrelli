@@ -7,7 +7,10 @@
 <hr/>
 
 Hello! I am Corrado Petrelli, a passionate developer from Italy🇮🇹!
-
+ 
+<a href='https://github.com/Il-Libro-Open-Source' target="_blank">
+  <img alt='Ambassador Il Libro Open Source' src='https://img.shields.io/badge/Ambassador%20Il%20Libro%20Open%20Source-📖-red.svg'/>
+  
 ## About Me
 - 🔭 Currently working as a Frontend Developer at [@talkstech](https://github.com/talkstech).
 - 💡 I study every day to be able to improve my skills.
