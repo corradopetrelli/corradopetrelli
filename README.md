@@ -12,7 +12,7 @@ Hello! I am Corrado Petrelli, a passionate developer from Italy🇮🇹!
   <img alt='Ambassador Il Libro Open Source' src='https://img.shields.io/badge/Ambassador%20Il%20Libro%20Open%20Source-📖-red.svg'/>
   
 ## About Me
-- 🔭 Currently working as a Frontend Developer at [@talkstech](https://github.com/talkstech).
+- 🔭 Currently working as a Full Stack Developer at [@JointlyTech](https://github.com/JointlyTech).
 - 💡 I study every day to be able to improve my skills.
 - 🌱 Love for innovation and science.
 - 🥲 Fun fact: The first code I ever wrote in my life was in x86 Assembly.
